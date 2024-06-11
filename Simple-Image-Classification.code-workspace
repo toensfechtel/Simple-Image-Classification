@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Simple-Image-Classification",
+			"path": "."
+		},
+		{
+			"name": "train",
+			"path": "../../Downloads/tegaki/train"
+		},
+		{
+			"name": "test",
+			"path": "../../Downloads/tegaki/test"
+		}
+	],
+	"settings": {}
+}
