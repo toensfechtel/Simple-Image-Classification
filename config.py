@@ -5,5 +5,5 @@ LEARNING_RATE = 0.001
 MOMENTUM = 0.9
 
 # File paths
-TRAIN_DIR = 'C:\Users\kevin\Downloads\tegaki\train'
-TEST_DIR = 'C:\Users\kevin\Downloads\tegaki\test'
+TRAIN_DIR = r'C:\Users\kevin\Downloads\tegaki\train'
+TEST_DIR = r'C:\Users\kevin\Downloads\tegaki\test'
